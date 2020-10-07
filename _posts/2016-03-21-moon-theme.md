@@ -13,10 +13,7 @@ tag:
 comments: true
 ---
 
-{% capture images %}
-	assets/img/perfil.png
-{% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}  
+https://jose22jj.github.io/ 
     
 <center><b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas.</center>
      
