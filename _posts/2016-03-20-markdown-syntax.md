@@ -50,13 +50,13 @@ Hay diferentes tipos de zapatillas y todas tienen cualidades diferentes según e
 
 | Adidas | Nike | Reebok | Puma | Joma |
 |:--------|:-------:|--------:|:--------|:-------:|
-| Adidas Zx Flux   | cell2   | cell3   | cell1   | cell2   |
-| Adidas Supernova Sequence Boost 8 W   | cell5   | cell6   | cell4   | cell5   |
+| Adidas Zx Flux   | Nike Air Zoom Vomero 11   | cell3   | cell1   | cell2   |
+| Adidas Supernova Sequence Boost 8 W   | Nike FS Lite Trainer 3   | cell6   | cell4   | cell5   |
 |----
-| Adidas Ultra Boost ST   | cell2   | cell3   | cell1   | cell2   |
-| Adidas Duramo 7 M   | cell5   | cell6   | cell4   | cell5   |
+| Adidas Ultra Boost ST   | Nike Downshifter 6 Msl   | cell3   | cell1   | cell2   |
+| Adidas Duramo 7 M   | Nike Free Trainer 3.0 V4   | cell6   | cell4   | cell5   |
 |=====
-| Adidas Galaxy 3M   | Foot2   | Foot3   | Foot1   | Foot2   |
+| Adidas Galaxy 3M   | Zapatillas de running Nike   | Foot3   | Foot1   | Foot2   |
 {: rules="groups"}
 
 ## Buttons
