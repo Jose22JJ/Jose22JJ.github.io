@@ -20,8 +20,8 @@ Por lo que te presentamos a continuación algunos materiales que puedas necesita
 
 * **Conos de entrenamiento:** Son el material más eficaz para delimitar el terreno y las líneas de entrenamiento ya que son fáciles de transportar, se cambian de sitio rápidamente y se pueden utilizar tanto en hierba como en superficies duras. Además, gracias a su material blando no suponen riesgo de lesiones.
 
-*
+* **Banderines:** Son el material más apropiados para marcar porterías gracias a su tamaño y forma pero solo se pueden utilizar para la demarcación en terrenos de hierba ya que en terrenos duros tienen que ir sobre una base que suele hacerlos más pesados y difíciles de transportar.
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=TmjUv8x0uYI" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=yJbfZe39Gyc" frameborder="0"> </iframe>
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
