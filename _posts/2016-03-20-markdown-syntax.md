@@ -30,12 +30,18 @@ Otras piezas están confeccionadas con textiles con “CoolForce”, una tecnolo
 
 ![Elaboradas con tecnología](https://i.blogs.es/787248/puma/450_1000.jpeg)
 
-### Body text
+## Calzados
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+Usar unas buenas zapatillas con unas características óptimas para el ejercicio que queremos realizar será primordial si no queremos sufrir lesiones u otros problemas relacionados con la mala postura al pisar.
+
+Hay diferentes tipos de zapatillas y todas tienen cualidades diferentes según el deporte que quieras realizar. No todas te van a servir lo mismo y es conveniente que sepas las diferencias entre unas y otras.
+
+- En el caso de que te guste realizar actividades en el gimnasio, como aerobic, zumba u otros, los zapatos tienen que tener la suela lisa, pero con un dibujo que nos ayude a no resbalarnos en el parqué. Son zapatillas livianas, de poco peso y con las que nos sentiremos muy cómodos llevándola.
+
+- Si necesitas unas zapatillas para correr o trotar por la calle, serán conveniente varios puntos a tener en cuenta. Por un lado, en el caso del dibujo de la suela, debe tener más forma, para que te ayude al agarre en cada zancada.
+
 
 ![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
 
 *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
