@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://jose22jj.github.io/"><b>Depor JJ Store</b></a> , es una página donde encontrarás objetos relacionados con el deporte como: el fútbol, el basket, el tenis, el ciclismo, la natación, entre otros.</center>
+<center><a href="https://jose22jj.github.io/"><b>Depor JJ Store</b></a>, es una página donde encontrarás objetos relacionados con el deporte como: el fútbol, el basket, el tenis, el ciclismo, la natación, entre otros.</center>
 
 ## Features
 * Minimal, you can focus on your content
