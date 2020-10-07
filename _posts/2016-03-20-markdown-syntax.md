@@ -40,6 +40,12 @@ Hay diferentes tipos de zapatillas y todas tienen cualidades diferentes según e
 
 - Si necesitas unas zapatillas para correr o trotar por la calle, serán conveniente varios puntos a tener en cuenta. Por un lado, en el caso del dibujo de la suela, debe tener más forma, para que te ayude al agarre en cada zancada.
 
+{% capture images %}
+    https://duemosli.blogs.uv.es/files/2016/10/Zapatillas-para-hacer-fitness.jpg
+    https://www.efesalud.com/files/2015/10/Efe-salud-beneficios-ejercicio.jpg
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
 ### Blockquotes
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
