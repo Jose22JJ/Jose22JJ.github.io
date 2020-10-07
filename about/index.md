@@ -21,7 +21,7 @@ comments: false
 
 {% capture images %}
     https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpZjhiqnCDtx4riMYPCIY5joRFVPJSlOaGVA&usqp=CAU
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://muchosnegociosrentables.com/wp-content/uploads/2018/03/C%C3%B3mo-abrir-una-tienda-de-deportes.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
