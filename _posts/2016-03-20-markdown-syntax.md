@@ -14,9 +14,11 @@ tag:
 comments: true
 ---
 
-## HTML Elements
+## Pura tecnología, diseño y comodidad
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+![Ropa moderna](https://elmundoalinstante.com/wp-content/uploads/2017/06/ropa-deportiva-nike-2-zonal-strength-tights_2.jpeg)
+
+Hoy día, las prendas deportivas modernas suelen estar elaboradas con materiales de alta tecnología que permiten una mejor transpiración y regulación de la temperatura corporal al ser suaves, livianos, inteligentes y porosos, y con una textura elástica y flexible que permite los diseños con aéreas de comprensión para un mejor soporte y circulación de la sangre.
 
 # Heading 1
 
