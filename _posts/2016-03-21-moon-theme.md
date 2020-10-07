@@ -15,7 +15,7 @@ comments: true
 https://www.depasio.com/wp-content/uploads/2019/01/5.jpg
 
 {% capture images %}
-	https://photos.google.com/photo/AF1QipMa0ufKTnFkPb3pBSNDd0UV5-KF2aI-cp_DGR_A
+	https://photos.app.goo.gl/VaSc655pKhWVQVDH9
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=3 %} 
     
