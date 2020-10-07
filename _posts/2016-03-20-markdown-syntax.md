@@ -57,8 +57,7 @@ Hay diferentes tipos de zapatillas y todas tienen cualidades diferentes según e
 | Adidas Galaxy 3M   | Zapatillas de running Nike   | Reebok Advanced Trainer   |
 {: rules="groups"}
 
-**Nota!** Contamos con más `.modelos`.
-{: .modelos}
+{**Nota:** Contamos con más modelos.}
 
 ## Buttons
 
@@ -83,8 +82,3 @@ You can also use `<kbd>` tag for keyboard buttons.
 {% endhighlight %}
 
 Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
