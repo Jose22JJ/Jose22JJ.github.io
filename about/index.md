@@ -16,6 +16,9 @@ comments: false
 * En deportes aplicado artículos como; floretes, zapatillas de ballet, aros, cintas de gimnasia.
 * Artículos para deportes extremos como tablas de surf, patinetas, patines, parapente, etc.
 * Raquetas, bates y otros complementos como palos de golf, raquetas de tenis y pingpong, etc.
+* Ropa deportiva:
+  - Mujer: Cortavientos, Jerseys, Camisetas, Camisas, Mallas, Pantalones, Bañadores, bikinis de natación, Top solar mujer, Neoprenos, top térmicos, Chaquetas, sudaderas.
+  - Hombres: Sudaderas, Cortavientos, Chalecos, Jerseys, Camisetas, Camisas, Chaquetas, Sudaderas, calzado, calcetines, guantes, Chaquetas.
 
 ## Avance
 
