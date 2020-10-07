@@ -4,7 +4,7 @@ bio:                'Tu tienda deportiva, donde encontrarás lo que necesitas.'
 description:        "Depor JJ Store, es una página donde encontrarás objetos relacionados con el deporte como: el fútbol, el basket, el tenis, el ciclismo, la natación, entre otros."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/JJ.png'
+logo:               'assets/img/JJ1.png'
 background:         'assets/img/01.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
