@@ -30,16 +30,6 @@ Otras piezas están confeccionadas con textiles con “CoolForce”, una tecnolo
 
 ![Elaboradas con tecnología](https://i.blogs.es/787248/puma/450_1000.jpeg)
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
 ### Body text
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
@@ -65,12 +55,6 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
    3. sub item three
 2. Item two
 
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
 ## Tables
 
 | Header1 | Header2 | Header3 |
@@ -83,16 +67,6 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
 
 ## Buttons
 
