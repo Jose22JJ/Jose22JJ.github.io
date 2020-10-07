@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "MathJax Example"
-date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+title:  "Materiales de baloncesto"
+date:   2020-10-07
+excerpt: "El baloncesto es un deporte que ha alcanzado un gran desarrollo y popularidad en todo el planeta, siendo actualmente una de las prácticas deportivas más influyentes y relevantes a nivel global.
+
 tag:
 - markdown 
 - mathjax
