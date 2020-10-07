@@ -34,4 +34,4 @@ Por lo que te presentamos a continuación algunos materiales que puedas necesita
 
 Además de todo este material de entrenamiento también hay otros complementos que pueden ser útiles para un entrenador, como una carpeta o pizarra táctica con la que organizar la estrategia de los partidos o un cronómetro con el que controlar los tiempos de entrenamiento y que no se escape ningún detalle.
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=TmjUv8x0uYI" frameborder="0"> </iframe>
+https://www.futbolsesion.com/wp-content/uploads/2019/07/capc%CC%A7alera-post-juliol-1.jpg
