@@ -23,7 +23,7 @@ comments: false
 ## Avance
 
 {% capture images %}
-    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpZjhiqnCDtx4riMYPCIY5joRFVPJSlOaGVA&usqp=CAU
+    https://doctorsistemas.com/_files/200002333-1ee571fdee/comercio%20art%C3%ADculos%20deportivos.jpg
     https://muchosnegociosrentables.com/wp-content/uploads/2018/03/C%C3%B3mo-abrir-una-tienda-de-deportes.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
