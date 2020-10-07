@@ -23,7 +23,7 @@ comments: false
 ## Avance
 
 {% capture images %}
-    https://doctorsistemas.com/_files/200002333-1ee571fdee/comercio%20art%C3%ADculos%20deportivos.jpg
+    https://allcostablanca.com/wp-content/uploads/2018/01/tienda-de-ropa-deportiva.jpg
     https://muchosnegociosrentables.com/wp-content/uploads/2018/03/C%C3%B3mo-abrir-una-tienda-de-deportes.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
