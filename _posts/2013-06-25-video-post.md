@@ -39,3 +39,5 @@ Además de todo este material de entrenamiento también hay otros complementos q
     https://www.deportescaneda.com/uploads/ckeditor/pictures/203/content_Mejora_tu_agilidad.jpg
 {% endcapture %}
 {% include gallery images=images caption="Training Screenshots" cols=2 %}
+
+Te dejo un [video](https://www.youtube.com/watch?v=TmjUv8x0uYI) que te servirá para equiparte con las herramientas necesarias para un buen entrenamiento.
