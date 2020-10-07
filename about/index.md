@@ -17,10 +17,10 @@ comments: false
 * Artículos para deportes extremos como tablas de surf, patinetas, patines, parapente, etc.
 * Raquetas, bates y otros complementos como palos de golf, raquetas de tenis y pingpong, etc.
 
-## Preview
+## Avance
 
 {% capture images %}
-    file:///C:/Users/User/Downloads/jpg1.jpg
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpZjhiqnCDtx4riMYPCIY5joRFVPJSlOaGVA&usqp=CAU
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
