@@ -12,10 +12,10 @@ tag:
 - theme
 comments: true
 ---
-https://www.depasio.com/wp-content/uploads/2019/01/5.jpg
 
 {% capture images %}
 	https://photos.app.goo.gl/VaSc655pKhWVQVDH9
+    https://www.depasio.com/wp-content/uploads/2019/01/5.jpg
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=3 %} 
     
