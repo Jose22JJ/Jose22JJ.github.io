@@ -2,7 +2,7 @@
 layout: page
 title: Acerca de nosotros
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-10-06
 comments: false
 ---
     
