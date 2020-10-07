@@ -2,7 +2,7 @@
 layout: post
 title:  "Tema de Depor JJ Store"
 date:   2020-10-07
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "<b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas."
 project: true
 tag:
 - jekyll 
