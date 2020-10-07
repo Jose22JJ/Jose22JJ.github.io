@@ -17,7 +17,7 @@ comments: true
 	https://photos.app.goo.gl/VaSc655pKhWVQVDH9
     https://www.depasio.com/wp-content/uploads/2019/01/5.jpg
 {% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=3 %} 
+{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=1 %} 
     
 <center><b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas.</center>
      
