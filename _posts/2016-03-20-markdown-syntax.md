@@ -57,8 +57,8 @@ Hay diferentes tipos de zapatillas y todas tienen cualidades diferentes según e
 | Adidas Galaxy 3M   | Zapatillas de running Nike   | Reebok Advanced Trainer   |
 {: rules="groups"}
 
-**Nota!** Contamos con más modelos.
-{: .nota}
+**Nota!** Contamos con más `.modelos`.
+{: .modelos}
 
 ## Buttons
 
