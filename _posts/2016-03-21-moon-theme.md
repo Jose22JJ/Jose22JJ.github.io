@@ -13,9 +13,12 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](assets/img/perfil.png)    
+{% capture images %}
+	assets/img/perfil.png
+{% endcapture %}
+{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}  
     
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<center><b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas.</center>
      
  I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
 
