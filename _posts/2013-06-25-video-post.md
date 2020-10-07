@@ -32,6 +32,6 @@ Por lo que te presentamos a continuación algunos materiales que puedas necesita
 
 * **Petos o camisetas de entrenamiento:** Con la finalizad de que los jugadores tengan una buena posibilidad de orientación y puedan situar de forma rápida y segura a los jugadores de su equipo durante los entrenamientos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yJbfZe39Gyc" frameborder="0"> </iframe>
+Además de todo este material de entrenamiento también hay otros complementos que pueden ser útiles para un entrenador, como una carpeta o pizarra táctica con la que organizar la estrategia de los partidos o un cronómetro con el que controlar los tiempos de entrenamiento y que no se escape ningún detalle.
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yJbfZe39Gyc" frameborder="0"> </iframe>
