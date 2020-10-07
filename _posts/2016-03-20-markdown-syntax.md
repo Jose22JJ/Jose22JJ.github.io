@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Ropa Deportiva"
+date:   2020-10-07
+excerpt: " Sube ese ánimo y anímate a practicar cualquier deporte, nosotros te traemos una lista con nuestras mejores propuestas en ropa deportiva para que sientas la máxima comodidad y libertad de movimiento.
+
+"
 tag:
 - markdown 
 - syntax
