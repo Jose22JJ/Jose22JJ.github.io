@@ -46,31 +46,17 @@ Hay diferentes tipos de zapatillas y todas tienen cualidades diferentes según e
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of footwear" cols=2 %}
 
-### Blockquotes
+## Modelos de calzado
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| Adidas | Nike | Reebok | Puma | Joma |
+|:--------|:-------:|--------:|:--------|:-------:|
+| Adidas Zx Flux   | cell2   | cell3   | cell1   | cell2   |
+| Adidas Supernova Sequence Boost 8 W   | cell5   | cell6   | cell4   | cell5   |
 |----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| Adidas Ultra Boost ST   | cell2   | cell3   | cell1   | cell2   |
+| Adidas Duramo 7 M   | cell5   | cell6   | cell4   | cell5   |
 |=====
-| Foot1   | Foot2   | Foot3
+| Adidas Galaxy 3M   | Foot2   | Foot3   | Foot1   | Foot2   |
 {: rules="groups"}
 
 ## Buttons
