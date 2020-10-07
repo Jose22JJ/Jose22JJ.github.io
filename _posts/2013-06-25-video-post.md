@@ -38,4 +38,4 @@ Además de todo este material de entrenamiento también hay otros complementos q
     https://www.futbolsesion.com/wp-content/uploads/2019/07/capc%CC%A7alera-post-juliol-1.jpg
     https://www.deportescaneda.com/uploads/ckeditor/pictures/203/content_Mejora_tu_agilidad.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of footwear" cols=2 %}
+{% include gallery images=images caption="Training Screenshots" cols=2 %}
