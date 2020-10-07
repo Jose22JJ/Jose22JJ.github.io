@@ -12,9 +12,13 @@ tag:
 - theme
 comments: true
 ---
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
 
-![Moon Homepage](file:///C:/Users/User/Downloads/perfil.png)
+{% capture images %}
+	file:///C:/Users/User/Downloads/perfil.png
+{% endcapture %}
+{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %} 
+
+![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)
     
 <center><b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas.</center>
      
