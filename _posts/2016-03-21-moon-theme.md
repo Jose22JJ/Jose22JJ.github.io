@@ -14,7 +14,7 @@ comments: true
 ---
 
 {% capture images %}
-	file:///C:/Users/User/Downloads/perfil.png
+	https://www.depasio.com/wp-content/uploads/2019/01/5.jpg
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %} 
 
