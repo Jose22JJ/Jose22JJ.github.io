@@ -1,20 +1,27 @@
 ---
 layout: post
-title:  "A Post with a Video"
-date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title:  "Material deportivo para fútbol"
+date:   2020-10-07
+excerpt: "En la actualidad el fútbol es uno de los deportes más practicados y seguidos en el mundo. Es un deporte que ha evolucionado mucho, gracias al material deportivo de fútbol que se utiliza para el entrenamiento. Además, actualmente se practica el fútbol en instalaciones de mayor calidad y seguridad."
 tag:
 - sample
 - post
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+
+Cuando un entrenador quiere obtener el mejor resultado de los entrenamientos de su equipo es importante que preste especial atención a los jugadores, pero además tiene que atender a que las instalaciones y el material de entrenamiento se encuentren en perfecto estado, ya que sin eso no se podrá realizar un entrenamiento en condiciones.
+
+Los clubes de categorías más bajas o con poco presupuesto es evidente que no pueden contar con el mismo material que un equipo profesional, pero lo que sí que tienen que hacer es fijarse bien en elegir el material adecuado a la hora de comprarlo.
+
+Hay cierto material de entrenamiento que sí que es importante que un club de fútbol tenga o vaya adquiriendo en las tiendas de material deportivo consiguiendo poco a poco para que los entrenadores puedan llevar a cabo su trabajo con los mejores resultados.
+
+Por lo que te presentamos a continuación algunos materiales que puedas necesitar para tus entrenamientos:
+
+* **Conos de entrenamiento:** Son el material más eficaz para delimitar el terreno y las líneas de entrenamiento ya que son fáciles de transportar, se cambian de sitio rápidamente y se pueden utilizar tanto en hierba como en superficies duras. Además, gracias a su material blando no suponen riesgo de lesiones.
+
+*
+
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=TmjUv8x0uYI" frameborder="0"> </iframe>
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
-
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
-
-{% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-{% endhighlight %}
