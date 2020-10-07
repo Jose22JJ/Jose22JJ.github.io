@@ -44,7 +44,7 @@ Hay diferentes tipos de zapatillas y todas tienen cualidades diferentes según e
     https://duemosli.blogs.uv.es/files/2016/10/Zapatillas-para-hacer-fitness.jpg
     https://www.efesalud.com/files/2015/10/Efe-salud-beneficios-ejercicio.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of footwear" cols=2 %}
 
 ### Blockquotes
 
