@@ -5,7 +5,7 @@ description:        "Depor JJ Store, es una página donde encontrarás objetos r
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/JJ1.png'
-background:         'assets/img/fondo.png'
+background:         'assets/img/01.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jose22jj.github.io
