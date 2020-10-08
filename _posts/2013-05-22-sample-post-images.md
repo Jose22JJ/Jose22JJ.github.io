@@ -20,28 +20,35 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 {% capture images %}
 	https://www.tennispro.es/media/catalog/product/cache/7/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/w/r/wr005711u_1_4.jpg
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption="Raqueta" cols=3 %}
 
 * **Entrenador de Goma para Saques:** Una herramienta ligera y resistente la cual te ayuda a mejorar tus servicios y a practicar tus swing y reveces. Esta pieza está fabricada completamente en goma y cuenta con un mango ergonómico que asemeja mucho al peso y forma del de una raqueta. Esta pieza es completamente segura para entrenar tanto a niños y adultos.
 
 {% capture images %}
 	https://redaccionhorizontemedia.files.wordpress.com/2018/09/31iydnulrll-e1537825559987.jpg?quality=80&strip=all
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption="Goma para saques" cols=3 %}
 
 * **Almohadilla Deportiva para el Codo:** Un accesorio resistente fabricado en neopreno que cuenta con bandas de velcro las cuales le permiten adaptarse con facilidad a la forma de tu codo. Se trata de una banda deportiva que cuenta con una almohadilla interna la cual minimiza el impacto que puede recibir el codo al jugar tenis.
 
 {% capture images %}
 	https://www.primfarma.es/wp-content/uploads/2016/03/OST272.jpg
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption="Almohadilla" cols=3 %}
 
 * **Pelotas:** Encontramos a `Head`, es uno de los fabricantes líderes en deportes de raqueta y sus modelos de pelotas de tenis son uno de los más competitivos del mercado. Aseguran un bote adecuado en diferentes terrenos y su tecnología encore TM garantiza una mayor durabilidad que otras pelotas convencionales.
 
 {% capture images %}
 	https://as.com/showroom/imagenes/2018/04/30/portada/1525082283_212927_1525084175_sumario_grande.jpg
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption="Pelotas" cols=3 %}
+
+* **Marcadores de Colores:** Se trata de unos discos hechos de vinil los cuales poseen colores brillantes y sirven de guía para establecer la posición de los pies; cada uno de estos discos tiene un diámetro de 9 pulgadas (23cm) de ancho y poseen una cualidad antiresbalante que les permite adaptarse a cualquier tipo de terreno.
+
+{% capture images %}
+	https://m.media-amazon.com/images/I/41K3wYMYS6L.jpg
+{% endcapture %}
+{% include gallery images=images caption="Marcadores" cols=3 %}
 
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
