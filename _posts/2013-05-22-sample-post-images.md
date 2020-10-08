@@ -22,6 +22,13 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 {% endcapture %}
 {% include gallery images=images caption="Raqueta" cols=3 %}
 
+* **Funda para raquetas:** Una funda para raquetas es el lugar ideal para transportar la herramienta principal del juego en el tenis y mantenerlas protegidas y limpias. Son prácticas para llevar las raquetas de manera cómoda al ir a entrenar o jugar a la vez que las mantienes seguras para evitar que sufran algún tipo de rasguño. Cuenta con una agarradera y una cinta para que cada persona las transporte de la manera que le resulte más cómoda.
+
+{% capture images %}
+	https://as.com/showroom/imagenes/2018/04/30/portada/1525082283_212927_1525084273_sumario_grande.jpg
+{% endcapture %}
+{% include gallery images=images caption="Funda" cols=3 %}
+
 * **Entrenador de Goma para Saques:** Una herramienta ligera y resistente la cual te ayuda a mejorar tus servicios y a practicar tus swing y reveces. Esta pieza está fabricada completamente en goma y cuenta con un mango ergonómico que asemeja mucho al peso y forma del de una raqueta. Esta pieza es completamente segura para entrenar tanto a niños y adultos.
 
 {% capture images %}
@@ -50,24 +57,9 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 {% endcapture %}
 {% include gallery images=images caption="Marcadores" cols=3 %}
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Three images.</figcaption>
-</figure>
-
-Parameters:
-
-- `caption`: Sets the caption under the gallery (see `figcaption` HTML tag above);
-- `cols`: Sets the number of columns of the gallery.
-Available values: [1..3].
-
-It will look something like this:
+* **Cesta para Pelotas:** Una canasta que puede cargar hasta 80 pelotas de tenis. Este accesorio está elaborado con polipropileno y cuenta con una base hecha con tubos de aluminio que se pliega con facilidad.
 
 {% capture images %}
-	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
+	hhttps://images-na.ssl-images-amazon.com/images/I/61VUEjT7qKL._SL1000_.jpg
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption="Cesta" cols=3 %}
