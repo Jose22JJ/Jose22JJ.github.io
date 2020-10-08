@@ -22,6 +22,15 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
 
+* **Entrenador de Goma para Saques:** Una herramienta ligera y resistente la cual te ayuda a mejorar tus servicios y a practicar tus swing y reveces. Esta pieza está fabricada completamente en goma y cuenta con un mango ergonómico que asemeja mucho al peso y forma del de una raqueta. Esta pieza es completamente segura para entrenar tanto a niños y adultos.
+
+{% capture images %}
+	https://redaccionhorizontemedia.files.wordpress.com/2018/09/31iydnulrll-e1537825559987.jpg?quality=80&strip=all
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=3 %}
+
+* **
+
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
