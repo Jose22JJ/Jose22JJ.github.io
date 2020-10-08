@@ -36,7 +36,7 @@ No hace falta que compres todo el material de entrenamiento a la vez, sino que p
 
 {% capture images %} 
 https://jgbasket.net/wp-content/uploads/2013/08/ejercicios-bote-baloncesto-.jpg
-https://www.mundosilbato.es/media/wysiwyg/blog5/balon-baloncesto-oficial.jpg
+https://jgbasket.net/wp-content/uploads/2013/01/pelota-baloncesto-201301.jpg
 https://nwscdn.com/media/catalog/product/cache/all/thumbnail/800x/9df78eab33525d08d6e5fb8d27136e95/p/o/portable_basketball_cart.jpg
 {% endcapture %} 
 {% include gallery images=images caption="Banderines" cols=3 %}
