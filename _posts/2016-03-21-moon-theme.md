@@ -70,21 +70,22 @@ Image for background. If you don't set it, color will be used as a background.
 
 ---
 
-## Layouts and Content
+## Diseños y contenido
 
-Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
+Depor JJ Store Theme usa Jekyll Compress para comprimir la salida html. Pero puede causar errores si usa "linenos" (números de línea). Sugiero no usar números de línea para los códigos, porque no se verá bien con este tema, y Les pueden dar un estilo de acuerdo a sus temas. Si insiste en usar números de línea, simplemente elimine la layout: compresscadena de los diseños. Desactivará la compresión.
+
 
 ### Comments
 To show disqus comments for your post add `comments: true` to your post's front matter.
 
 ---
 
-## Questions?
+## ¿Preguntas?
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
+¿Encontraste un error o no estás seguro de cómo funciona algo? Por todos los medios [archive un problema de GitHub](https://github.com/TaylanTatli/Moon/issues/new). Y si haces algo genial con este tema no dudes en hacerlo saber.
 
 ---
 
-## License
+## Licencia
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+Este tema es software libre y de código abierto, distribuido bajo la licencia MIT. Así que siéntase libre de utilizar este tema Jekyll en su sitio sin vincularse de nuevo a mí o incluyendo un descargo de responsabilidad.
