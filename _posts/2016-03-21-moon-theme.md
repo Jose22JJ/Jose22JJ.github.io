@@ -70,45 +70,9 @@ Image for background. If you don't set it, color will be used as a background.
 
 ---
 
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
-
----
-
 ## Layouts and Content
 
 Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
-
-### Feature Image
-
-You can set feature image per post. Just add `feature: some link` to your post's front matter.
-
-```
-feature: /assets/img/some-image.png
-or
-feaure: http://example.com/some-image.png
-```    
- This also will be used for twitter card:
-
-![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
 
 ### Comments
 To show disqus comments for your post add `comments: true` to your post's front matter.
