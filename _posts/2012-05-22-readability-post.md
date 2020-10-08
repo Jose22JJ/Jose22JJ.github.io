@@ -2,7 +2,7 @@
 layout: post
 title: "Implementos para la natación"
 date: 2020-10-08
-excerpt: "Para practicar la natación es muy importante contar con el equipo adecuado. Te mostraremos los elementos imprescindibles que debes incluir en tu mochila antes de ir a la piscina, tanto si inicias tu aprendizaje como si eres un nadador experimentado."
+excerpt: "Para practicar la natación es muy importante contar con el equipo adecuado. Te mostramos los elementos imprescindibles que debes incluir en tu mochila antes de ir a la piscina, tanto si inicias tu aprendizaje como si eres un nadador experimentado."
 tags: [sample post, readability, test]
 comments: true
 ---
