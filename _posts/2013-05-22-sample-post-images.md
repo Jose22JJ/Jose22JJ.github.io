@@ -4,10 +4,9 @@ title: "Equipamiento para jugar tenis"
 date: 2020-10-08
 excerpt: "Ganar cada juego en la pista de tenis requiere de habilidad y del equipamiento adecuado."
 tags: [sample post, images, test]
+feature: https://www.mallorcadiario.com/fotos/1/418525_tenis.jpg
 comments: true
 ---
-
-![Tenis](https://www.mallorcadiario.com/fotos/1/418525_tenis.jpg)
 
 Hay una serie de artículos que pueden marcar la diferencia en el juego de los tenistas como pueden ser las zapatillas o las pelotas. Todas estas herramientas tienen que ser adecuadas al nivel de cada usuario, para que así cada jugador pueda explotar al máximo su juego sobre la pista. 
 
