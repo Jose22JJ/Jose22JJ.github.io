@@ -2,7 +2,7 @@
 layout: post
 title: Equipamiento para el ciclismo
 date: 2020-10-07
-excerpt: "El ciclismo como deporte ha avanzado en los últimos años de una manera considerable. La proliferación del equipamiento para el ciclista no hace otra cosa que enriquecer más el ciclismo, y la implementación de tecnologías como pulsómetros, material de entrenamientos, etc."
+excerpt: "El ciclismo como deporte ha avanzado en los últimos años de una manera considerable. La proliferación del equipamiento para el ciclista no hace otra cosa que enriquecer más el ciclismo."
 tags: [sample post, code, highlighting]
 comments: true
 ---
