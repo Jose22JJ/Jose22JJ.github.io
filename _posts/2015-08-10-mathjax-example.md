@@ -12,7 +12,9 @@ tag:
 comments: true
 ---
 
-[MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
+Todo entrenador de baloncesto quiere sacar lo máximo de sus jugadores a lo largo de la temporada y para ello tiene que preparar hasta el más mínimo detalle. Pero sin duda, una de las cosas más importantes es tener unas instalaciones adecuadas y un material de entrenamiento de baloncesto en perfecto estado que permita realizar rutinas de ejercicios para potenciar las condiciones físicas de los jugadores.
+
+![Entrenamiento de Baloncesto](https://www.mundosilbato.es/media/wysiwyg/blog6/entrenamiento-baloncesto.jpg)
 
 ## Usage
 
