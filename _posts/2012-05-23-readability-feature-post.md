@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2020-10-09
+title: "Implementos para el béisbol"
+date: 2020-10-07
 excerpt: "A ton of text to test readability with image feature."
 tags: [sample post, readability, test, image, feature]
 feature: https://s1.1zoom.me/big0/511/Baseball_bat_Grass_Ball_Glove_569557_1280x853.jpg
