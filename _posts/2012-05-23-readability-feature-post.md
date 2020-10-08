@@ -2,7 +2,7 @@
 layout: post
 title: "Implementos para el béisbol"
 date: 2020-10-07
-excerpt: "Son varios los accesorios de béisbol que se requieren para practicar esta disciplina deportiva. De hecho, en el béisbol se usan implementos diferentes a la hora de actuar a la defensiva o a la ofensiva, que todo jugador debe poseer si desea disfrutar este juego y ser competitivo."
+excerpt: "De hecho, en el béisbol se usan implementos diferentes a la hora de actuar a la defensiva o a la ofensiva. Se trata de una gran cantidad de piezas que todo jugador debe poseer si desea disfrutar este juego y ser competitivo."
 tags: [sample post, readability, test, image, feature]
 feature: https://s1.1zoom.me/big0/511/Baseball_bat_Grass_Ball_Glove_569557_1280x853.jpg
 comments: true
