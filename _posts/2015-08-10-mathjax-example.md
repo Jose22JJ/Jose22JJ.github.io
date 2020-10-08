@@ -9,10 +9,9 @@ tag:
 - example
 - test
 - jekyll
+feature: https://www.mundosilbato.es/media/wysiwyg/blog6/entrenamiento-baloncesto.jpg
 comments: true
 ---
-
-![Entrenamiento de Baloncesto](https://www.mundosilbato.es/media/wysiwyg/blog6/entrenamiento-baloncesto.jpg)
 
 Todo entrenador de baloncesto quiere sacar lo máximo de sus jugadores a lo largo de la temporada y para ello tiene que preparar hasta el más mínimo detalle. Pero sin duda, una de las cosas más importantes es tener unas instalaciones adecuadas y un material de entrenamiento de baloncesto en perfecto estado que permita realizar rutinas de ejercicios para potenciar las condiciones físicas de los jugadores.
 
