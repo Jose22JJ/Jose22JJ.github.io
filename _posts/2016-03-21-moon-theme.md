@@ -58,15 +58,15 @@ A quick checklist of the files you’ll want to edit to get up and running.
 ### Site Wide Configuration
 `_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
 
-#### reading_time
+#### tiempo de lectura
 
-Set true to show reading time for posts. And set `words_per_minute`, default is 200.
+Se estableció para que el tiempo sea mostrado de acuerdo a cada lectura de las publicaciones.
 
 #### logo
 El logotipo de este sitio. Se mostrará en la página de inicio y en el menú de navegación.
 
-#### background
-Image for background. If you don't set it, color will be used as a background.
+#### antecendentes
+Imagen para fondo. Se lo puede establecer de acuerdo al gusto, sino el color se utilizará como fondo.
 
 ---
 
