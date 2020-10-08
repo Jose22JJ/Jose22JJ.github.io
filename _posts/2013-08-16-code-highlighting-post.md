@@ -33,7 +33,7 @@ Sin embargo, el ciclismo es un deporte que puede suponer riesgos si no se desarr
 
 {% capture images %} 
 https://images-na.ssl-images-amazon.com/images/I/610MA7zd4DL._AC_SY355_.jpg 
-https://us.123rf.com/450wm/mearicon/mearicon1603/mearicon160300058/55066601-casco-para-bicicletas-.jpg?ver=6 
+https://www.marcociclista.com/1028-home_default/cascos-ciclismo-eleo.jpg 
 https://images-na.ssl-images-amazon.com/images/I/71WcmOiOVzL._AC_SY355_.jpg 
 {% endcapture %} 
 {% include gallery images=images caption="Cycling items" cols=3 %}
