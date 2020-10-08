@@ -14,6 +14,6 @@ Hay que indicar que el béisbol es un deporte que requiere gran cantidad de impl
 
 ### Implementos:
 
-* **
+* **Bate de béisbol:** seleccionar un bate de béisbol no es tan fácil como parece, para que un bate sea eficaz, debe ser seleccionado por el jugador que lo usará, ya que cada bateador tiene sus propios gustos, además de ser muy determinante el tamaño, la edad y el peso.
 
 > Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
