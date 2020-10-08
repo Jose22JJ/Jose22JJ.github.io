@@ -29,7 +29,19 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
 
-* **
+* **Almohadilla Deportiva para el Codo:** Un accesorio resistente fabricado en neopreno que cuenta con bandas de velcro las cuales le permiten adaptarse con facilidad a la forma de tu codo. Se trata de una banda deportiva que cuenta con una almohadilla interna la cual minimiza el impacto que puede recibir el codo al jugar tenis.
+
+{% capture images %}
+	https://www.primfarma.es/wp-content/uploads/2016/03/OST272.jpg
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=3 %}
+
+* **Pelotas:** Encontramos a `Head`, es uno de los fabricantes líderes en deportes de raqueta y sus modelos de pelotas de tenis son uno de los más competitivos del mercado. Aseguran un bote adecuado en diferentes terrenos y su tecnología encore TM garantiza una mayor durabilidad que otras pelotas convencionales.
+
+{% capture images %}
+	https://as.com/showroom/imagenes/2018/04/30/portada/1525082283_212927_1525084175_sumario_grande.jpg
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=3 %}
 
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
