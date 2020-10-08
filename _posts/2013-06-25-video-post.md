@@ -2,7 +2,7 @@
 layout: post
 title:  "Material deportivo para fútbol"
 date:   2020-10-07
-excerpt: "En la actualidad el fútbol es uno de los deportes más practicados y seguidos en el mundo. Es un deporte que ha evolucionado mucho, gracias al material deportivo de fútbol que se utiliza para el entrenamiento. Además, actualmente se practica el fútbol en instalaciones de mayor calidad y seguridad."
+excerpt: "En la actualidad el fútbol es uno de los deportes más practicados y seguidos en el mundo. Es un deporte que ha evolucionado mucho, gracias al material deportivo de fútbol que se utiliza para el entrenamiento."
 tag:
 - sample
 - post
