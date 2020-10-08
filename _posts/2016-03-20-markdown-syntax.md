@@ -11,12 +11,11 @@ tag:
 - sample
 - test
 - jekyll
+feature: https://elmundoalinstante.com/wp-content/uploads/2017/06/ropa-deportiva-nike-2-zonal-strength-tights_2.jpeg
 comments: true
 ---
 
 ## Pura tecnología, diseño y comodidad
-
-![Ropa moderna](https://elmundoalinstante.com/wp-content/uploads/2017/06/ropa-deportiva-nike-2-zonal-strength-tights_2.jpeg)
 
 Hoy día, las prendas deportivas modernas suelen estar elaboradas con materiales de alta tecnología, nosotros contamos con estas prendas que permiten una mejor transpiración y regulación de la temperatura corporal al ser suaves, livianos, inteligentes y porosos, y con una textura elástica y flexible que permiten los diseños con aéreas de comprensión para un mejor soporte y circulación de la sangre.
 
