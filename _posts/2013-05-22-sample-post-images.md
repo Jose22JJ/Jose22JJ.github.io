@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
-excerpt: "Examples and code for displaying images in posts."
+title: "Equipamiento para jugar tenis"
+date: 2020-10-08
+excerpt: "Ganar cada juego en la pista de tenis requiere de habilidad y del equipamiento adecuado."
 tags: [sample post, images, test]
 comments: true
 ---
+
+![Tenis](https://www.araguaocio.es/wp-content/uploads/2017/08/tenis-e1503483701564.jpg)
 
 Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
