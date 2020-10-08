@@ -46,4 +46,4 @@ Se monta en la orejera del casco de bateo, cubriendo el lado de la cara expuesto
     https://beisbol.store/wp-content/uploads/2019/05/4.jpg 
 {% endcapture %} {% include gallery images=images caption="Protector" cols=3 %}
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
+> Contamos con más accesorios de béisbol aparte de lo indicado, tenemos para tí todo lo que necesitas para verte como un profesional del béisbol, desde gomas para bates, pintura para el sol, lentes para beisbolistas, hasta mangas protectoras y entre otros que te servirán.
