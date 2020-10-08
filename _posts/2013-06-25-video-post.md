@@ -7,6 +7,7 @@ tag:
 - sample
 - post
 - video
+feature: https://www.mundodeportivo.com/r/GODO/MD/p5/Futbol/Imagenes/2018/06/26/Recortada/img_tblanco_20180626-124707_imagenes_md_otras_fuentes_nuevobalonfaseseliminagoriasmundial-kkaG-U454166140063zF-980x554@MundoDeportivo-Web.jpg
 comments: true
 ---
 
