@@ -7,9 +7,11 @@ tags: [sample post, images, test]
 comments: true
 ---
 
-![Tenis](https://www.araguaocio.es/wp-content/uploads/2017/08/tenis-e1503483701564.jpg)
+![Tenis](https://www.mallorcadiario.com/fotos/1/418525_tenis.jpg)
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Hay una serie de artículos que pueden marcar la diferencia en el juego de los tenistas como pueden ser las zapatillas o las pelotas. Todas estas herramientas tienen que ser adecuadas al nivel de cada usuario, para que así cada jugador pueda explotar al máximo su juego sobre la pista. 
+
+Para las personas aficionadas a este deporte, hemos seleccionado una serie de artículos de equipamiento de tenis. Para que todo tenista pueda sentirse en la pista.
 
 ### Figures (for images or video)
 
