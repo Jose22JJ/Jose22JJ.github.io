@@ -31,3 +31,9 @@ Sin embargo, el ciclismo es un deporte que puede suponer riesgos si no se desarr
 
 * **Bidón isotérmico:** El bidón isotérmico es capaz de manterner el agua a una temperatura adecuada hasta dos horas y media. Por lo que es imprescindible en las rutas ciclistas de larga duración y no conviene olvidarlo antes de empezar a dar pedaladas.
 
+{% capture images %} 
+https://images-na.ssl-images-amazon.com/images/I/610MA7zd4DL._AC_SY355_.jpg 
+https://us.123rf.com/450wm/mearicon/mearicon1603/mearicon160300058/55066601-casco-para-bicicletas-.jpg?ver=6 
+https://images-na.ssl-images-amazon.com/images/I/71WcmOiOVzL._AC_SY355_.jpg 
+{% endcapture %} 
+{% include gallery images=images caption="Cycling items" cols=3 %}
