@@ -60,6 +60,6 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 * **Cesta para Pelotas:** Una canasta que puede cargar hasta 80 pelotas de tenis. Este accesorio está elaborado con polipropileno y cuenta con una base hecha con tubos de aluminio que se pliega con facilidad.
 
 {% capture images %}
-	hhttps://images-na.ssl-images-amazon.com/images/I/61VUEjT7qKL._SL1000_.jpg
+	https://images-na.ssl-images-amazon.com/images/I/61VUEjT7qKL._SL1000_.jpg
 {% endcapture %}
 {% include gallery images=images caption="Cesta" cols=3 %}
