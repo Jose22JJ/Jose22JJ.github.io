@@ -52,20 +52,20 @@ That's all.
       
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
 
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
+## Configuración del sitio
+Una lista de comprobación rápida de los archivos que desea editar para ponerse en marcha.
 
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
+### Configuración de todo el sitio
+Este sitio fue personalizado de acuerdo al tema presentado.
 
-#### tiempo de lectura
+#### Tiempo de lectura
 
 Se estableció para que el tiempo sea mostrado de acuerdo a cada lectura de las publicaciones.
 
-#### logo
+#### Logo
 El logotipo de este sitio. Se mostrará en la página de inicio y en el menú de navegación.
 
-#### antecendentes
+#### Antecendentes
 Imagen para fondo. Se lo puede establecer de acuerdo al gusto, sino el color se utilizará como fondo.
 
 ---
