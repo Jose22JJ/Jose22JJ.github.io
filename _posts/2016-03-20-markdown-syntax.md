@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ropa Deportiva"
-date:   2020-10-07
+date:   2020-10-10
 excerpt: " Sube ese ánimo y anímate a practicar cualquier deporte, nosotros te traemos una lista con nuestras mejores propuestas en ropa deportiva para que sientas la máxima comodidad y libertad de movimiento.
 
 "
