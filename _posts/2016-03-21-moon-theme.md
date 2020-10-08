@@ -63,7 +63,7 @@ A quick checklist of the files you’ll want to edit to get up and running.
 Set true to show reading time for posts. And set `words_per_minute`, default is 200.
 
 #### logo
-Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
+El logotipo de este sitio. Se mostrará en la página de inicio y en el menú de navegación.
 
 #### background
 Image for background. If you don't set it, color will be used as a background.
@@ -73,10 +73,6 @@ Image for background. If you don't set it, color will be used as a background.
 ## Diseños y contenido
 
 Depor JJ Store Theme usa Jekyll Compress para comprimir la salida html. Pero puede causar errores si usa "linenos" (números de línea). Sugiero no usar números de línea para los códigos, porque no se verá bien con este tema, y Les pueden dar un estilo de acuerdo a sus temas. Si insiste en usar números de línea, simplemente elimine la layout: compresscadena de los diseños. Desactivará la compresión.
-
-
-### Comments
-To show disqus comments for your post add `comments: true` to your post's front matter.
 
 ---
 
