@@ -3,6 +3,7 @@ layout: page
 title: Acerca de nosotros
 tags: [about, Jekyll, theme, moon]
 date: 2020-10-06
+feature: https://image.freepik.com/vector-gratis/gradiente-formas-geometricas-sobre-fondo-oscuro_23-2148421828.jpg
 comments: false
 ---
     
