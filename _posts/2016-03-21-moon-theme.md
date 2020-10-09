@@ -53,7 +53,7 @@ Imagen para fondo. Se lo puede establecer de acuerdo al gusto, sino el color se 
 
 ## Diseños y contenido
 
-Depor JJ Store Theme usa Jekyll Compress para comprimir la salida html. Pero puede causar errores si usa "linenos" (números de línea). Sugiero no usar números de línea para los códigos, porque no se verá bien con este tema, y Les pueden dar un estilo de acuerdo a sus temas. Si insiste en usar números de línea, simplemente elimine la layout: compresscadena de los diseños. Desactivará la compresión.
+Depor JJ Store usa Jekyll Compress para comprimir la salida html. Pero puede causar errores si usa "linenos" (números de línea). Sugiero no usar números de línea para los códigos, porque no se verá bien con este tema, y Les pueden dar un estilo de acuerdo a sus temas. Si insiste en usar números de línea, simplemente elimine la layout: compresscadena de los diseños. Desactivará la compresión.
 
 ---
 
