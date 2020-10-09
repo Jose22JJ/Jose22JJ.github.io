@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tema de Depor JJ Store"
+title:  "Depor JJ Store"
 date:   2020-10-07
 excerpt: "<b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas."
 project: true
