@@ -13,7 +13,7 @@ comments: true
 
 Cuando un entrenador quiere obtener el mejor resultado de los entrenamientos de su equipo es importante que preste especial atención a los jugadores, pero además tiene que atender a que las instalaciones y el material de entrenamiento se encuentren en perfecto estado, ya que sin eso no se podrá realizar un entrenamiento en condiciones.
 
-Hay cierto material de entrenamiento que sí que es importante que un club de fútbol tenga o vaya adquiriendo en las tiendas de material deportivo consiguiendo poco a poco para que los entrenadores puedan llevar a cabo su trabajo con los mejores resultados.
+Hay cierto material de entrenamiento que es fundamental que un club de fútbol tenga o vaya adquiriendo en las tiendas de material deportivo consiguiendo poco a poco para que los entrenadores puedan llevar a cabo su trabajo con los mejores resultados.
 
 Por lo que te presentamos a continuación algunos materiales que puedas necesitar para tus entrenamientos:
 
