@@ -24,10 +24,11 @@ Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estr
 
 ---
 
-## Preview
+## Avances
 
 {% capture images %}
 	/assets/img/perfil.png
+    
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}   
       
