@@ -15,7 +15,7 @@ El conjunto básico está compuesto de chanclas, bañador, gafas y gorro; alguna
 * **Bañador:** Sobra decir que es necesario, pero no sirve cualquier bañador para practicar la natación.Lo primero que tienes que buscar en un bañador es que te sientas cómodo con él y lo segundo asegurarte que tienes la máxima libertad de movimientos. Lo más indicado son aquellos trajes de un solo cuerpo con los tirantes cruzados en la parte de atrás, que facilitan que el bañador quede bien fijado al cuerpo.
 
 {% capture images %} 
-http://www.i-natacion.com/img/articulos/equipacion/banador.jpg 
+https://natacioncs.com/blog/wp-content/uploads/2018/05/speedo-fastskin-lzr-racer-x-1.jpg
 {% endcapture %} {% include gallery images=images caption="Bañador" cols=3 %}
 
 * **Gorro:** Mantiene el pelo fuera de sus ojos, nariz y boca, en el caso de tenerlo largo. Ofrece menos resistencia al avance a causa del pelo, deslizándonos mucho mejor a través del agua. Evita que tu pelo absorba demasiado cloro, con el consiguiente deterioro del cabello. Como medida higiénica para otros usuarios y para el mantenimiento de la piscina. Identificar a los miembro de un mismo equipo.
