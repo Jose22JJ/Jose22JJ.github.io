@@ -29,7 +29,6 @@ Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estr
 {% capture images %}
 	assets/img/perfil.png
 	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}   
       
