@@ -9,6 +9,8 @@ comments: false
     
 <center><a href="https://jose22jj.github.io/"><b>Depor JJ Store</b></a>, es una página donde encontrarás objetos relacionados con el deporte como: el fútbol, el basket, el tenis, el ciclismo, la natación, entre otros.</center>
 
+---
+
 ## Artículos
 * Balones de fútbol, fútbol sala, voleibol, baloncesto, rugby.
 * Pelotas para golf, baseball, críquet.
@@ -25,6 +27,10 @@ comments: false
 
 ![Ropa deportiva](https://allcostablanca.com/wp-content/uploads/2018/01/tienda-de-ropa-deportiva.jpg)
 
+---
+
 ![Tienda](https://muchosnegociosrentables.com/wp-content/uploads/2018/03/C%C3%B3mo-abrir-una-tienda-de-deportes.jpg)
+
+---
 
 Puedes obtener más información y seguirnos en nuestras páginas de [Facebook](https://www.facebook.com/Jose.Jaramillo22/), [Twitter](https://twitter.com/JoseJar73133902), [Instagram](https://www.instagram.com/jose.jaramillo22/).
