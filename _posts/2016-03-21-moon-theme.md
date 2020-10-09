@@ -29,7 +29,7 @@ Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estr
 {% capture images %}
 	/assets/img/perfil.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=1 %}   
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}   
       
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
