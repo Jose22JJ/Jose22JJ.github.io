@@ -22,16 +22,6 @@ comments: false
 
 ## Avance
 
-{% capture images %}
-    https://allcostablanca.com/wp-content/uploads/2018/01/tienda-de-ropa-deportiva.jpg
-    https://muchosnegociosrentables.com/wp-content/uploads/2018/03/C%C3%B3mo-abrir-una-tienda-de-deportes.jpg
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Preview" cols=2 %}
+![Ropa deportiva](https://allcostablanca.com/wp-content/uploads/2018/01/tienda-de-ropa-deportiva.jpg)
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+![Tienda](https://muchosnegociosrentables.com/wp-content/uploads/2018/03/C%C3%B3mo-abrir-una-tienda-de-deportes.jpg)
