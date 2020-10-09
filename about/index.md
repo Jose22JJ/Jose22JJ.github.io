@@ -7,7 +7,7 @@ feature: https://image.freepik.com/vector-gratis/gradiente-formas-geometricas-so
 comments: false
 ---
     
-<center><a href="https://jose22jj.github.io/"><b>Depor JJ Store</b></a>, es una página donde encontrarás objetos relacionados con el deporte como: el fútbol, el basket, el tenis, el ciclismo, la natación, entre otros.</center>
+<center><a href="https://jose22jj.github.io/"><b>Sport JJ Store</b></a>, es una página donde encontrarás objetos relacionados con el deporte como: el fútbol, el basket, el tenis, el ciclismo, la natación, entre otros.</center>
 
 ---
 
