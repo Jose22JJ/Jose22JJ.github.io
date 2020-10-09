@@ -14,9 +14,7 @@ comments: false
 ## Artículos
 * Balones de fútbol, fútbol sala, voleibol, baloncesto, rugby.
 * Pelotas para golf, baseball, críquet.
-* Complementos de camping como carpas, sacos de dormir, mochilas, botas de montaña, etc.
 * Artículos de fitness como pesas, barras, discos, aparatos aeróbicos, etc.
-* En deportes aplicado artículos como; floretes, zapatillas de ballet, aros, cintas de gimnasia.
 * Artículos para deportes extremos como tablas de surf, patinetas, patines, parapente, etc.
 * Raquetas, bates y otros complementos como palos de golf, raquetas de tenis y pingpong, etc.
 * Ropa deportiva:
