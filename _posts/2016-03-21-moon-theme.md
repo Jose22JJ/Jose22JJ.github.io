@@ -15,6 +15,8 @@ comments: true
 ---
     
 <center><b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas.</center>
+
+---
      
 Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estrella** para la motivación, gracias.
 
