@@ -27,4 +27,4 @@ comments: false
 
 ![Tienda](https://muchosnegociosrentables.com/wp-content/uploads/2018/03/C%C3%B3mo-abrir-una-tienda-de-deportes.jpg)
 
-Puedes contactarnos entrando a nuestra página en [Facebook](Jose.Jaramillo22/), [Twitter](JoseJar73133902)
+Puedes obtener más información y seguirnos en nuestras páginas de [Facebook](https://www.facebook.com/Jose.Jaramillo22/), [Twitter](https://twitter.com/JoseJar73133902), [Instagram](https://www.instagram.com/jose.jaramillo22/).
