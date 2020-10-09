@@ -39,7 +39,7 @@ https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__mediu
 * **Zapatillas:** Con su uso evitarás, en gran medida, el pie de atleta y otros hongos típicos en piscinas, sin embargo, el uso de chanclas no te asegura una higiene completa del pie, e incluso evitar algo tan habitual como un resbalón.
 
 {% capture images %} 
-http://www.i-natacion.com/img/articulos/equipacion/chancla.jpg
+https://sc02.alicdn.com/kf/H4ea6ea6a11a14207bc3b7bf842723f20N.jpg
 {% endcapture %} {% include gallery images=images caption="Zapatillas" cols=3 %}
 
 * **Tapones para los oídos:** Son muy útiles si tenemos algún problema con los oídos. Se suelen adaptar a la forma del oído para que el agua no entre en él, aunque deberás buscar los más apropiados a tus orejas.
