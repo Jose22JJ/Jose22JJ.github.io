@@ -27,7 +27,7 @@ https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__mediu
 * **Toalla o albornoz:** La toalla, o en su defecto el albornoz, no debe faltar en la mochila de un nadador. Contamos con toallas de algodón 100% que son apropiados para este tipo de deporte.
 
 {% capture images %} 
-http://www.i-natacion.com/img/articulos/equipacion/toallas.jpg
+https://1.bp.blogspot.com/-JoeFZ_PwPAQ/WmT6Foa7ISI/AAAAAAAACmM/qu1QMj18dI0HVQbkm32ur6Ci6XZMYQ2ZgCLcBGAs/s1600/toallas.jpg
 {% endcapture %} {% include gallery images=images caption="Toalla" cols=3 %}
 
 * **Gafas:** Con las gafas evitamos la irritación de los ojos producida por el cloro de las piscinas o la sal del mar, motivo por el cual su uso se hace muy recomendable para todas las edades. Obviamente el uso de gafas nos permitirá ver bajo el agua y controlar la dirección que deseamos.
