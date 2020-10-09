@@ -25,7 +25,7 @@ comments: true
     /assets/img/avance1.png
     /assets/img/avance2.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}   
+{% include gallery images=images caption="Screenshots of Depor JJ Store" cols=3 %}   
 
 Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estrella** para la motivación, gracias.
 
