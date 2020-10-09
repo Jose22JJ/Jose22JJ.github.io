@@ -20,7 +20,10 @@ comments: true
      
 Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estrella** para la motivación, gracias.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+---
+
 ## Preview
 
 {% capture images %}
@@ -31,6 +34,8 @@ Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estr
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}   
       
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+---
 
 ## Configuración del sitio
 Una lista de comprobación rápida de los archivos que desea editar para ponerse en marcha.
