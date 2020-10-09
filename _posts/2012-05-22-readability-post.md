@@ -4,7 +4,7 @@ title: "Implementos para la natación"
 date: 2020-10-08
 excerpt: "Para practicar la natación es muy importante contar con el equipo adecuado. Te mostramos los elementos imprescindibles que debes incluir en tu mochila antes de ir a la piscina, tanto si inicias tu aprendizaje como si eres un nadador experimentado."
 tags: [sample post, readability, test]
-feature: https://lh3.googleusercontent.com/proxy/HkNF5iai8pvlJ-8YoSTlGQAk2jVPrE02TMOS_NqpLx2oAW-o08xIicHvdw0rsM1BFqfEvU-VpB3e5lpsENaJmWnm6tOT2GssOjo5xpM3ZKvpamHqumrlcOPXqQHJyMF0O7u6lxodbGY
+feature: https://www.lekue.com/wp/es/wp-content/uploads/sites/3/2018/07/rutina-natacion-825x502.jpg
 comments: true
 ---
 
