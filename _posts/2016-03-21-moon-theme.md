@@ -17,22 +17,19 @@ comments: true
 <center><b>Depor JJ Store</b>, es una tienda deportiva, en donde encontrarás lo que necesitas.</center>
 
 ---
-     
-Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estrella** para la motivación, gracias.
-
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-
----
 
 ## Avances
 
 {% capture images %}
 	/assets/img/perfil.png
-    
+    /assets/img/avance1.png
+    /assets/img/avance2.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}   
-      
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+Si te gusta este tema que se usó o te gustaría usarlo, podrías dar una **estrella** para la motivación, gracias.
+
+<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 ---
 
