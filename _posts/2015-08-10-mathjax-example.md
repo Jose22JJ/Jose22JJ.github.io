@@ -42,6 +42,4 @@ https://nwscdn.com/media/catalog/product/cache/all/thumbnail/800x/9df78eab33525d
 
 > Estos son sólo algunos de los artículos que componen el material de entrenamiento de baloncesto y que son necesarios para cualquier equipo, pero puedes encontrar otros como el material de primeros auxilios o las botellas para mantenerse hidratado en todo momento.
 
-Si necesitas algunos consejos sobre que llevar en tu mochila para ir a tu entrenamiento, puedes ver el siguinte video.
-
-![Consejos](https://www.youtube.com/watch?v=bGiWTR8mQSA)
+Si necesitas algunos consejos sobre que llevar en tu mochila para ir a tu entrenamiento, puedes ver el siguinte [video](https://www.youtube.com/watch?v=bGiWTR8mQSA).
