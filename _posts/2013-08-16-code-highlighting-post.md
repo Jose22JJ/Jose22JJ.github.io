@@ -36,3 +36,5 @@ https://www.marcociclista.com/1028-home_default/cascos-ciclismo-eleo.jpg
 https://images-na.ssl-images-amazon.com/images/I/71WcmOiOVzL._AC_SY355_.jpg 
 {% endcapture %} 
 {% include gallery images=images caption="Cycling items" cols=3 %}
+
+Si eres un ciclista principiante, los consejos mencionados en el siguiente [video](https://www.youtube.com/watch?v=ZjUORKP0CMw) te pueden servir muchísimo.
