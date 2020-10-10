@@ -62,3 +62,5 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 	https://images-na.ssl-images-amazon.com/images/I/61VUEjT7qKL._SL1000_.jpg
 {% endcapture %}
 {% include gallery images=images caption="Cesta" cols=3 %}
+
+El siguiente [video](https://www.youtube.com/watch?v=v3QY9IFZHjo), te muestra algunos tips y beneficios sobre este apasionante deporte.
