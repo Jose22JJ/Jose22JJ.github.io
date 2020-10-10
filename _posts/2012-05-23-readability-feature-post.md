@@ -47,3 +47,5 @@ Se monta en la orejera del casco de bateo, cubriendo el lado de la cara expuesto
 {% endcapture %} {% include gallery images=images caption="Protector" cols=3 %}
 
 > Contamos con más accesorios de béisbol aparte de lo indicado, tenemos para tí todo lo que necesitas para verte como un profesional del béisbol, desde gomas para bates, pintura para el sol, lentes para beisbolistas, hasta mangas protectoras y entre otros que te servirán.
+
+El siguiente [video](https://www.youtube.com/watch?v=_1KmD--HHYI) te muestra que necesitas para jugar béisbol.
