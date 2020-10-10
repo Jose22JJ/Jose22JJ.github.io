@@ -47,3 +47,5 @@ https://sc02.alicdn.com/kf/H4ea6ea6a11a14207bc3b7bf842723f20N.jpg
 {% capture images %} 
 https://www.neopren.es/blog/wp-content/uploads/2017/08/Captura-de-pantalla-2017-08-09-a-las-12.23.13.jpg
 {% endcapture %} {% include gallery images=images caption="Tapones" cols=3 %}
+
+En este [video](https://www.youtube.com/watch?v=oF5sXD6Sp3k), te enseñan el material imprescindible que te servirá para ir a nadar.
