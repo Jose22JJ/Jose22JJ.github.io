@@ -21,14 +21,14 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 {% endcapture %}
 {% include gallery images=images caption="Raqueta" cols=3 %}
 
-* **Funda para raquetas:** Una funda para raquetas es el lugar ideal para transportar la herramienta principal del juego en el tenis y mantenerlas protegidas y limpias. Son prácticas para llevar las raquetas de manera cómoda al ir a entrenar o jugar a la vez que las mantienes seguras para evitar que sufran algún tipo de rasguño. Cuenta con una agarradera y una cinta para que cada persona las transporte de la manera que le resulte más cómoda.
+* **Funda para raquetas:** Una funda para raquetas es el lugar ideal para transportar la herramienta principal del juego en el tenis y mantenerlas protegidas y limpias. Son prácticas para llevar las raquetas de manera cómoda al ir a entrenar o jugar a la vez que las mantienes seguras para evitar que sufran algún tipo de rasguño.
 
 {% capture images %}
 	https://as.com/showroom/imagenes/2018/04/30/portada/1525082283_212927_1525084273_sumario_grande.jpg
 {% endcapture %}
 {% include gallery images=images caption="Funda" cols=3 %}
 
-* **Entrenador de Goma para Saques:** Una herramienta ligera y resistente la cual te ayuda a mejorar tus servicios y a practicar tus swing y reveces. Esta pieza está fabricada completamente en goma y cuenta con un mango ergonómico que asemeja mucho al peso y forma del de una raqueta. Esta pieza es completamente segura para entrenar tanto a niños y adultos.
+* **Entrenador de Goma para Saques:** Una herramienta ligera y resistente la cual te ayuda a mejorar tus servicios y a practicar tus swing y reveces. Esta pieza está fabricada completamente en goma y cuenta con un mango ergonómico que asemeja mucho al peso y forma del de una raqueta.
 
 {% capture images %}
 	https://redaccionhorizontemedia.files.wordpress.com/2018/09/31iydnulrll-e1537825559987.jpg?quality=80&strip=all
@@ -49,7 +49,7 @@ Para las personas aficionadas a este deporte, hemos seleccionado una serie de ar
 {% endcapture %}
 {% include gallery images=images caption="Pelotas" cols=3 %}
 
-* **Marcadores de Colores:** Se trata de unos discos hechos de vinil los cuales poseen colores brillantes y sirven de guía para establecer la posición de los pies; cada uno de estos discos tiene un diámetro de 9 pulgadas (23cm) de ancho y poseen una cualidad antiresbalante que les permite adaptarse a cualquier tipo de terreno.
+* **Marcadores de Colores:** Se trata de unos discos hechos de vinil los cuales poseen colores brillantes y sirven de guía para establecer la posición de los pies.
 
 {% capture images %}
 	https://m.media-amazon.com/images/I/41K3wYMYS6L.jpg
